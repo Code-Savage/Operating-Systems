@@ -1,0 +1,5 @@
+Device Management
+Device Management is an operating system function that manages all of the devices attached to the computer.
+This includes all physical hardware, such as keyboard, mouse, monitor, hard drives, GPU, ect. 
+Device management will notify the other operating system functions when changes are made to hardware, such as a USB being inserted into a port. 
+It will also allow the other operating system functions to make changes to connected devices, such as writing to a HDD, or changing what a monitor shows. 
