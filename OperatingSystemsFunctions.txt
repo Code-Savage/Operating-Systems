@@ -5,4 +5,6 @@ Device management will notify the other operating system functions when changes 
 It will also allow the other operating system functions to make changes to connected devices, such as writing to a HDD, or changing what a monitor shows. 
 
 Processor Management
-Processor Management is an operating system function that manages all data that the CPU is processing. It works very closely with the memory management to allow the processor to process data, store it, then process it again. Processor management allows the operating system to tell the processor what data to process, how to process it, and where to store it for later use. 
+Processor Management is an operating system function that manages all data that the CPU is processing.
+It works very closely with the memory management to allow the processor to process data, store it, then process it again.
+Processor management allows the operating system to tell the processor what data to process, how to process it, and where to store it for later use. 
