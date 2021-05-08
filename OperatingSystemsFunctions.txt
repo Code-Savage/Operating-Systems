@@ -8,3 +8,8 @@ Processor Management
 Processor Management is an operating system function that manages all data that the CPU is processing.
 It works very closely with the memory management to allow the processor to process data, store it, then process it again.
 Processor management allows the operating system to tell the processor what data to process, how to process it, and where to store it for later use. 
+
+File Management
+File management is an operating system function that manages all known data, where it is, and what systems need to have access to it.
+It has the ability to work with device management in order to read and write to HDD's and external drives. 
+It also works with the processor management by sharing information that the processor needs. 
